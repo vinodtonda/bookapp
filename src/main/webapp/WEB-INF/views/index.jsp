@@ -6,7 +6,7 @@
 <html ng-app="myApp" ng-controller="myCtrl">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Book App</title>
+<title>Book App  </title>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
  <script>
 var app = angular.module('myApp', []);
